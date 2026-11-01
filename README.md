@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 4 problems · 0 labs · 2 math
+**7** solved · 5 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-11-01 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-10-28 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-10-22 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-10-17 | [solution](problems/0023-softmax-activation-function-implementation) |
